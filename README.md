@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![linkedin Badge](http://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virginia-silva-05514132/)](https://www.linkedin.com/in/virginia-silva-05514132/)
