@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as 
+production coordinator.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![linkedin Badge](http://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virginia-silva-05514132/)](https://www.linkedin.com/in/virginia-silva-05514132/)
+- 🔭 I’m currently working as 
+production coordinator.
