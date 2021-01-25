@@ -1,4 +1,4 @@
-### Hi, Welcome yo my Profile. 👋
+### Hi, Welcome to my Profile. 👋
 - 🔭 I’m currently working as 
 production coordinator.
 - 🌱 I’m currently learning web development.
