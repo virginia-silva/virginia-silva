@@ -6,8 +6,11 @@ production coordinator.
 - 😄 Learning ReactJS in the Campinas Tech Talents Program.
 - ⚡ Portfolio under Construction.
 
-[![linkedin Badge](http://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/virginia-silva-05514132/)](https://www.linkedin.com/in/virginia-silva-05514132/)
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+## About me 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virginia-silva-05514132/)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
