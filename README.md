@@ -18,8 +18,8 @@ production coordinator.
 <a target="_blank" href="https://www.instagram.com/vls1307//">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="mailto:virginiasilvaholambra@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a target="_blank" href="mailto:virginia_hol@hotmail.com">
+  <img align="left" alt="hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href=https://www.facebook.com/virginia.silva.52493499/>
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
