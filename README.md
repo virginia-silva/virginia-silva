@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java, Banco de Dados e SQL, Web, APIs HTTP, Spring MVC**
 
-- 👯 I’m looking to collaborate on [Bank Project](https://github.com/virginia-silva/Talentos--Tech-Bank/tree/master/src/projetobanco)
+- 👯 I’m looking to collaborate on [Já-Pão Padaria](https://github.com/virginia-silva/japaoPadaria)
 
-- 🤝 I’m looking for help with [Bank Project](https://github.com/virginia-silva/Talentos--Tech-Bank/tree/master/src/projetobanco)
+- 🤝 I’m looking for help with [Já-Pão Padaria](https://github.com/virginia-silva/japaoPadaria)
 
 - 👨‍💻 All of my projects are available at [https://github.com/virginia-silva](https://github.com/virginia-silva)
 
