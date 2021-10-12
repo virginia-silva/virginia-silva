@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virginia-silva&label=Profile%20views&color=0e75b6&style=flat" alt="virginia-silva" /> </p>
 
-- 🔭 I’m currently working as **Coordenadora de Produção**
+- 🔭 I’m currently working as **Programadora JR**
 
 - 🌱 I’m currently learning **Java, Banco de Dados e SQL, Web, APIs HTTP, Spring MVC**
 
