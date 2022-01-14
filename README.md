@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Em Construção.....](Em Construção.....)
 
-- 💬 Ask me about **Html5, Css3, JavaScript, ReactJS e JAVA.**
+- 💬 Ask me about **Html5, Css3, Angular, kotlin e JAVA.**
 
 - 📫 How to reach me **virginia_hol@hotmail.com**
 
