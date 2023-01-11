@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Power Platform Developer Pleno**
 
-- 🌱 I’m currently learning **Java, Banco de Dados e SQL, Web, APIs HTTP, Spring MVC**
+- 🌱 I’m currently learning **Java, Banco de Dados e SQL, Web, APIs HTTP, Spring MVC, Power Platform**
 
 - 👯 I’m looking to collaborate on [Jogo de Xadrez em Java](https://github.com/virginia-silva/Chess-System-Desing)
 
