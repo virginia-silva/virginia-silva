@@ -9,7 +9,7 @@ Sou apaixonada por transformar desafios de negócio em soluções digitais efici
 ## 💼 Experiência em:
 
 - **Power Apps** (Canvas e Model-driven)
-- **Power Automate** (Cloudc)
+- **Power Automate** (Cloud)
 - **Power BI** (Dashboards interativos e relatórios)
 - **Power Pages**
 - **Dataverse**
@@ -42,7 +42,7 @@ Sou apaixonada por transformar desafios de negócio em soluções digitais efici
 
 - Criação de Apps de gerenciamento para **VIVO**.
 - Criação de Apps de gerenciamento de serviços para **ABInbev**.
-- Criação de Apps de gerenciamento de forncedores para **RENNER**.
+- Criação de Apps de gerenciamento de fornecedores para **RENNER**.
 - Criação de Apps de gerenciamento de seguros para **UNILEVER**.
 - Entre outros....
 
