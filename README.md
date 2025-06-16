@@ -44,6 +44,7 @@ Sou apaixonada por transformar desafios de negócio em soluções digitais efici
 - Criação de Apps de gerenciamento de serviços para **ABInbev**.
 - Criação de Apps de gerenciamento de fornecedores para **RENNER**.
 - Criação de Apps de gerenciamento de seguros para **UNILEVER**.
+- Criação de Apps de gerenciamento de monitorias para **CPFL**.
 - Entre outros....
 
 ---
