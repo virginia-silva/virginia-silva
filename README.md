@@ -56,4 +56,4 @@ Sou apaixonada por transformar desafios de negócio em soluções digitais efici
 
 ---
 
-> 💡 Estou sempre em busca de novas oportunidades e desafios para criar soluções digitais que agregam valor real ao negócio.
+> 💡 Estou sempre em busca de desafios para criar soluções digitais que agregam valor real ao negócio.
