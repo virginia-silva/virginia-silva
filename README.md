@@ -35,12 +35,14 @@ Sou apaixonada por transformar desafios de negócio em soluções digitais efici
 - Microsoft Applied Skills: Create and manage canvas apps with Power Apps (PL-7001)
 - Microsoft Applied Skills: Create and manage automated processes using Power Automate (PL-7002)
 - Microsoft Applied Skills: Build and manage model-driven apps with Power Apps and Dataverse (PL-7003)
+- Microsoft Applied Skills: Create agents in Microsoft COpilot Studio (PL-7008)
+- Project Management Essentials - PMEPC
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- Criação de Apps de gerenciamento para **VIVO**.
+- Criação de Apps de gerenciamento de Contabilidade para **VIVO**.
 - Criação de Apps de gerenciamento de serviços para **ABInbev**.
 - Criação de Apps de gerenciamento de fornecedores para **RENNER**.
 - Criação de Apps de gerenciamento de seguros para **UNILEVER**.
